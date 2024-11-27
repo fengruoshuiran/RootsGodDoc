@@ -1,0 +1,31 @@
+# 安装与使用mdbook
+
+如果不仅是查看者而希望编辑设计文档，则需要遵循以下步骤来获取必要工具
+
+参考[mdbook文档](https://rust-lang.github.io/mdBook/guide/installation.html)
+
+## 安装rust
+
+下载安装[rust](https://rust-lang.github.io/mdBook/index.html)
+
+## 安装mdbook
+
+打开cmd，执行
+```
+cargo install mdbook
+```
+等待安装完毕即可
+
+### markdwon简介
+
+mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+推荐使用vscode编辑，按需安装拓展
+
+## 获取github权限
+
+确定拥有[github](https://github.com/)账号，联系管理人员获取文档仓库的编辑权限
+
+## 安装github工具
+
+安装[github desktop](https://desktop.github.com/download/)，一个方便易用的官方桌面工具，用于在本地同步与编辑文档原始markdown文件
