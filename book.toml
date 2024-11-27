@@ -1,0 +1,9 @@
+[book]
+authors = ["ruoran"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "腐根之里文档"
+
+[output.html]
+mathjax-support = true
