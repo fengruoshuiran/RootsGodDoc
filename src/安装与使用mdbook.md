@@ -16,7 +16,7 @@ cargo install mdbook
 ```
 等待安装完毕即可
 
-### markdwon简介
+### markdown简介
 
 mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -28,8 +28,10 @@ mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法�
 
 ## 安装github工具
 
-安装[github desktop](https://desktop.github.com/download/)，一个方便易用的官方桌面工具，用于在本地同步与编辑文档原始markdown文件
+安装[git](https://git-scm.com/downloads/win)
 
 拉取项目，新建自己的分支进行编辑与提交。不要在主分支上直接进行编辑，因为这会频繁触发部署
 
 在编辑完成后，进行pull request，通过后提交将呈现在[文档网页](https://fengruoshuiran.github.io/RootsGodDoc/)中
+
+test
