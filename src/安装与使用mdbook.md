@@ -32,4 +32,4 @@ mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法�
 
 拉取项目，新建自己的分支进行编辑与提交。不要在主分支上直接进行编辑，因为这会频繁触发部署
 
-在编辑完成后，进行pull request，通过后提交将呈现在文档网页中
+在编辑完成后，进行pull request，通过后提交将呈现在[文档网页](https://fengruoshuiran.github.io/RootsGodDoc/)中
