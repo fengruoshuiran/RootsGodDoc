@@ -16,6 +16,8 @@ cargo install mdbook
 ```
 等待安装完毕即可
 
+本地的修改可以运行local_test.bat来查看
+
 ### markdown简介
 
 mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://markdown.com.cn/basic-syntax/)
