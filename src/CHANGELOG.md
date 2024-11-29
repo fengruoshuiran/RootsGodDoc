@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [黑猫](卡牌/黑猫.md)
 - [种子](卡牌/种子.md)
 - [诡异聚合物](卡牌/诡异聚合物.md)
+- [萌芽鹿](卡牌/萌芽鹿.md)
 
 #### 卡牌组
 
