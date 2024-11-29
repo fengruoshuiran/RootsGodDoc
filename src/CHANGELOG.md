@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [种子炸弹](卡牌/种子炸弹.md)
 - [蝌蚪](卡牌/蝌蚪.md)
 - [猫](卡牌/猫.md)
+- [黑猫](卡牌/黑猫.md)
 
 #### 卡牌组
 
