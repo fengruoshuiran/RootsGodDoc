@@ -57,6 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 > `双生` 的效果需要真实实现，而不能用另一张卡牌假装。因为 `双生` 也可能被赋予而来
 ---
 - [大蜗牛](卡牌/大蜗牛.md)
+- [唤声鹿](卡牌/唤声鹿.md)
 
 
 ##### 描述
