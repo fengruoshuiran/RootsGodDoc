@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [猫](卡牌/猫.md)
 - [黑猫](卡牌/黑猫.md)
 - [种子](卡牌/种子.md)
+- [诡异聚合物](卡牌/诡异聚合物.md)
 
 #### 卡牌组
 
@@ -74,6 +75,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌
 
 - 脓包
+- 毒刺鼠
+- 诡异蛙
+- 酸液蜗牛
 
 ## [0.1.0] - 2024-11-28
 
