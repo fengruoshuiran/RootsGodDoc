@@ -20,11 +20,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [种子炸弹](卡牌/种子炸弹.md)
 - [蝌蚪](卡牌/蝌蚪.md)
 - [猫](卡牌/猫.md)
+- [黑猫](卡牌/黑猫.md)
+- [种子](卡牌/种子.md)
 
 #### 卡牌组
 
 - [森林](卡牌组/森林.md)
 - [生长](卡牌组/生长.md)
+- [花](卡牌组/花.md)
+- [种子](卡牌组/种子.md)
 
 ### Changed
 
@@ -41,6 +45,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [消化](卡牌/消化.md)
 - [酸土](卡牌/酸土.md)
 - [藤笼](卡牌/藤笼.md)
+- [彼岸花](卡牌/彼岸花.md)
+- [荧光种](卡牌/荧光种.md)
+
+---
+- [畸变鹿](卡牌/畸变鹿.md)
+- [畸变蜗牛](卡牌/畸变蜗牛.md)
+> `双生` 的效果需要真实实现，而不能用另一张卡牌假装。因为 `双生` 也可能被赋予而来
+---
+
 
 ##### 描述
 
@@ -48,6 +61,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [石块](卡牌/石块.md)
 - [鹿](卡牌/鹿.md)
 - [瞭望塔](卡牌/瞭望塔.md)
+
+### Removed
+
+#### 卡牌
+
+- 脓包
 
 ## [0.1.0] - 2024-11-28
 
