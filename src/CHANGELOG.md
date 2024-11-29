@@ -22,6 +22,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [猫](卡牌/猫.md)
 - [黑猫](卡牌/黑猫.md)
 - [种子](卡牌/种子.md)
+- [诡异聚合物](卡牌/诡异聚合物.md)
+- [萌芽鹿](卡牌/萌芽鹿.md)
+- [藏宝蜗牛](卡牌/藏宝蜗牛.md)
+- [虚空生物](卡牌/虚空生物.md)
+- [鹊桥](卡牌/雀桥.md)
+- [喜鹊](卡牌/喜鹊.md)
 
 #### 卡牌组
 
@@ -56,6 +62,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 > `双生` 的效果需要真实实现，而不能用另一张卡牌假装。因为 `双生` 也可能被赋予而来
 ---
 - [大蜗牛](卡牌/大蜗牛.md)
+- [唤声鹿](卡牌/唤声鹿.md)
+- [森林生态球](卡牌/森林生态球.md)
 
 
 ##### 描述
@@ -74,6 +82,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌
 
 - 脓包
+- 毒刺鼠
+- 诡异蛙
+- 酸液蜗牛
 
 ## [0.1.0] - 2024-11-28
 
