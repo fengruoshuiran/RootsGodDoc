@@ -26,6 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [萌芽鹿](卡牌/萌芽鹿.md)
 - [藏宝蜗牛](卡牌/藏宝蜗牛.md)
 - [虚空生物](卡牌/虚空生物.md)
+- [鹊桥](卡牌/雀桥.md)
+- [喜鹊](卡牌/喜鹊.md)
 
 #### 卡牌组
 
