@@ -47,6 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [藤笼](卡牌/藤笼.md)
 - [彼岸花](卡牌/彼岸花.md)
 - [荧光种](卡牌/荧光种.md)
+- [诡异木芽](卡牌/诡异木芽.md)
 
 ---
 - [畸变鹿](卡牌/畸变鹿.md)
