@@ -46,6 +46,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [酸土](卡牌/酸土.md)
 - [藤笼](卡牌/藤笼.md)
 - [彼岸花](卡牌/彼岸花.md)
+- [荧光种](卡牌/荧光种.md)
 
 ---
 - [畸变鹿](卡牌/畸变鹿.md)
@@ -60,6 +61,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [石块](卡牌/石块.md)
 - [鹿](卡牌/鹿.md)
 - [瞭望塔](卡牌/瞭望塔.md)
+
+### Removed
+
+#### 卡牌
+
+- 脓包
 
 ## [0.1.0] - 2024-11-28
 
