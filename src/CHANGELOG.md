@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 关键字
 
 - [ ] [变大](名词解释.md#变大)
+- [ ] [消失](名词解释.md#消失)
 
 #### 卡牌
 
