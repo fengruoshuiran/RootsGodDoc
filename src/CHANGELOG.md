@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [鹊桥](卡牌/雀桥.md)
 - [ ] [喜鹊](卡牌/喜鹊.md)
 - [ ] [跳蛙](卡牌/跳蛙.md)
+- [ ] [浊镜](卡牌/浊镜.md)
 
 #### 卡牌组
 
@@ -37,6 +38,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [花](卡牌组/花.md)
 - [ ] [种子](卡牌组/种子.md)
 - [ ] [障碍物](卡牌组/障碍物.md)
+- [ ] [邪祟](卡牌组/邪祟.md)
 
 ### Changed
 
