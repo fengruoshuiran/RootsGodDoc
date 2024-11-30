@@ -43,6 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [障碍物](卡牌组/障碍物.md)
 - [ ] [邪祟](卡牌组/邪祟.md)
 - [ ] [文物](卡牌组/文物.md)
+- [ ] [诡异之物](卡牌组/诡异之物.md)
 
 ### Changed
 
