@@ -38,7 +38,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌组
 
 - [ ] [森林之物](卡牌组/森林之物.md)
-- [ ] [生长](卡牌组/生长.md)
+- [ ] [助长之物](卡牌组/生长.md)
 - [ ] [花](卡牌组/花.md)
 - [ ] [种子](卡牌组/种子.md)
 - [ ] [障碍物](卡牌组/障碍物.md)
