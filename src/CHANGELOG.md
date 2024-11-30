@@ -34,6 +34,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [古卷](卡牌/古卷.md)
 - [ ] [旧陶罐](卡牌/旧陶罐.md)
 - [ ] [游魂](卡牌/游魂.md)
+- [ ] [白雏菊](卡牌/白雏菊.md)
+- [ ] [活木](卡牌/活木.md)
+- [ ] [活石](卡牌/活石.md)
 
 #### 卡牌组
 
