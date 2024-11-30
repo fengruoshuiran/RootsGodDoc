@@ -36,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌组
 
-- [ ] [森林](卡牌组/森林之物.md)
+- [ ] [森林之物](卡牌组/森林之物.md)
 - [ ] [生长](卡牌组/生长.md)
 - [ ] [花](卡牌组/花.md)
 - [ ] [种子](卡牌组/种子.md)
@@ -44,6 +44,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [邪祟](卡牌组/邪祟.md)
 - [ ] [文物](卡牌组/文物.md)
 - [ ] [诡异之物](卡牌组/诡异之物.md)
+- [ ] [侵蚀之物](卡牌组/侵蚀之物.md)
 
 ### Changed
 
