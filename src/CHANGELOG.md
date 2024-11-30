@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [浊镜](卡牌/浊镜.md)
 - [ ] [古卷](卡牌/古卷.md)
 - [ ] [旧陶罐](卡牌/旧陶罐.md)
+- [ ] [游魂](卡牌/游魂.md)
 
 #### 卡牌组
 
