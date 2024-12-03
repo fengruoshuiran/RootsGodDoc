@@ -40,6 +40,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [贪欲之壶](卡牌/贪欲之壶.md)
 - [ ] [诡异蛙](卡牌/诡异蛙.md)
 - [ ] [向日葵](卡牌/向日葵.md)
+- [ ] [鼩鼱](卡牌/鼩鼱.md)
+- [ ] [储藏室](卡牌/储藏室.md)
+- [ ] [丰厚储藏室](卡牌/丰厚储藏室.md)
 
 #### 卡牌组
 
