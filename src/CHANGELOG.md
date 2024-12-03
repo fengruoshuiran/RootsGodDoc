@@ -58,6 +58,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [变异](卡牌组/变异.md)
 - [ ] [神秘](卡牌组/神秘.md)
 - [ ] [光](卡牌组/光.md)
+- [ ] [传说](卡牌组/传说.md)
 
 ### Changed
 
