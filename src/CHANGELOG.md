@@ -50,6 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [文物](卡牌组/文物.md)
 - [ ] [诡异](卡牌组/诡异.md)
 - [ ] [侵蚀之物](卡牌组/侵蚀之物.md)
+- [ ] [变异](卡牌组/变异.md)
 
 ### Changed
 
