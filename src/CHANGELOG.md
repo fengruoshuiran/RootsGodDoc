@@ -37,6 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [白雏菊](卡牌/白雏菊.md)
 - [ ] [活木](卡牌/活木.md)
 - [ ] [活石](卡牌/活石.md)
+- [ ] [贪欲之壶](卡牌/贪欲之壶.md)
 
 #### 卡牌组
 
