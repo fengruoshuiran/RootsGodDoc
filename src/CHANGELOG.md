@@ -53,6 +53,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [侵蚀](卡牌组/侵蚀.md)
 - [ ] [变异](卡牌组/变异.md)
 - [ ] [神秘](卡牌组/神秘.md)
+- [ ] [光](卡牌组/光.md)
 
 ### Changed
 
