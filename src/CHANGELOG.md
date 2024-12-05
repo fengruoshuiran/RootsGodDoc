@@ -43,10 +43,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [鼩鼱](卡牌/鼩鼱.md)
 - [ ] [储藏室](卡牌/储藏室.md)
 - [ ] [丰厚储藏室](卡牌/丰厚储藏室.md)
+- [ ] [万象树](卡牌/万象树.md)
 
 #### 卡牌组
 
-- [ ] [森林之物](卡牌组/森林之物.md)
+- [ ] [自然](卡牌组/自然.md)
 - [ ] [助长](卡牌组/助长.md)
 - [ ] [花](卡牌组/花.md)
 - [ ] [种子](卡牌组/种子.md)
@@ -59,6 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [神秘](卡牌组/神秘.md)
 - [ ] [光](卡牌组/光.md)
 - [ ] [传说](卡牌组/传说.md)
+- [ ] [血腥](卡牌组/血腥.md)
 
 ### Changed
 
