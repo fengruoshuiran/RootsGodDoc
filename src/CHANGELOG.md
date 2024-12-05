@@ -60,6 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [神秘](卡牌组/神秘.md)
 - [ ] [光](卡牌组/光.md)
 - [ ] [传说](卡牌组/传说.md)
+- [ ] [血腥](卡牌组/血腥.md)
 
 ### Changed
 
