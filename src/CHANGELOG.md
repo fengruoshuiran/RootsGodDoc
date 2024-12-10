@@ -94,6 +94,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [唤声鹿](卡牌/唤声鹿.md)
 - [ ] [森林生态球](卡牌/森林生态球.md)
 - [ ] [毒刺鼠](卡牌/毒刺鼠.md)
+- [ ] [血腥苗床](卡牌/血腥苗床.md)
 
 
 ##### 描述
