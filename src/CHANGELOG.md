@@ -47,6 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [增生之种](卡牌/增生之种.md)
 - [ ] [分株](卡牌/分株.md)
 - [ ] [拟态章鱼](卡牌/拟态章鱼.md)
+- [ ] [曼陀罗](卡牌/曼陀罗.md)
 
 #### 卡牌组
 
