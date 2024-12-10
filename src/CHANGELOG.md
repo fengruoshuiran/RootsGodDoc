@@ -54,6 +54,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [永恒轮回](卡牌/永恒轮回.md)
 - [ ] [祷告](卡牌/祷告.md)
 - [ ] [虚无](卡牌/虚无.md)
+- [ ] [天火](卡牌/天火.md)
 
 #### 卡牌组
 
