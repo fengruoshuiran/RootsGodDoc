@@ -73,6 +73,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [传说](卡牌组/传说.md)
 - [ ] [血腥](卡牌组/血腥.md)
 - [ ] [真理](卡牌组/真理.md)
+- [ ] [奇迹](卡牌组/奇迹.md)
 
 ### Changed
 
