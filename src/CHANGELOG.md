@@ -47,6 +47,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [增生之种](卡牌/增生之种.md)
 - [ ] [分株](卡牌/分株.md)
 - [ ] [拟态章鱼](卡牌/拟态章鱼.md)
+- [ ] [曼陀罗](卡牌/曼陀罗.md)
+- [ ] [对称破缺](卡牌/对称破缺.md)
+- [ ] [绝对此在](卡牌/绝对此在.md)
+- [ ] [无上赐福](卡牌/无上赐福.md)
+- [ ] [永恒轮回](卡牌/永恒轮回.md)
+- [ ] [祷告](卡牌/祷告.md)
+- [ ] [虚无](卡牌/虚无.md)
+- [ ] [天火](卡牌/天火.md)
+- [ ] [白昼的客星](卡牌/白昼的客星.md)
+- [ ] [鲜血圣杯](卡牌/鲜血圣杯.md)
 
 #### 卡牌组
 
@@ -64,6 +74,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [光](卡牌组/光.md)
 - [ ] [传说](卡牌组/传说.md)
 - [ ] [血腥](卡牌组/血腥.md)
+- [ ] [真理](卡牌组/真理.md)
+- [ ] [奇迹](卡牌组/奇迹.md)
 
 ### Changed
 
@@ -94,6 +106,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [唤声鹿](卡牌/唤声鹿.md)
 - [ ] [森林生态球](卡牌/森林生态球.md)
 - [ ] [毒刺鼠](卡牌/毒刺鼠.md)
+- [ ] [血腥苗床](卡牌/血腥苗床.md)
 
 
 ##### 描述
