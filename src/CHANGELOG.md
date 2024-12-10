@@ -55,6 +55,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [祷告](卡牌/祷告.md)
 - [ ] [虚无](卡牌/虚无.md)
 - [ ] [天火](卡牌/天火.md)
+- [ ] [白昼的客星](卡牌/白昼的客星.md)
 
 #### 卡牌组
 
