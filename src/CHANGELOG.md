@@ -57,6 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [天火](卡牌/天火.md)
 - [ ] [白昼的客星](卡牌/白昼的客星.md)
 - [ ] [鲜血圣杯](卡牌/鲜血圣杯.md)
+- [ ] [无底竹篮](卡牌/无底竹篮.md)
 
 #### 卡牌组
 
