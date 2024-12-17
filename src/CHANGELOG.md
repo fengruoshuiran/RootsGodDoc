@@ -61,6 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [梵天之瞳](卡牌/梵天之瞳.md)
 - [ ] [蓬莱的玉枝](卡牌/蓬莱的玉枝.md)
 - [ ] [七星灯](卡牌/七星灯.md)
+- [ ] [麦穗头环](卡牌/麦穗头环.md)
 
 #### 卡牌组
 
