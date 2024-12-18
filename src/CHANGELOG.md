@@ -60,6 +60,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [无底竹篮](卡牌/无底竹篮.md)
 - [ ] [梵天之瞳](卡牌/梵天之瞳.md)
 - [ ] [蓬莱的玉枝](卡牌/蓬莱的玉枝.md)
+- [ ] [七星灯](卡牌/七星灯.md)
+- [ ] [麦穗头环](卡牌/麦穗头环.md)
 
 #### 卡牌组
 
@@ -79,6 +81,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [血腥](卡牌组/血腥.md)
 - [ ] [真理](卡牌组/真理.md)
 - [ ] [奇迹](卡牌组/奇迹.md)
+- [ ] [丰饶](卡牌组/丰饶.md)
 
 ### Changed
 
