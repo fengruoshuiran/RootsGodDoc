@@ -83,6 +83,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [奇迹](卡牌组/奇迹.md)
 - [ ] [丰饶](卡牌组/丰饶.md)
 - [ ] [仪式](卡牌组/仪式.md)
+- [ ] [分株](卡牌组/分株.md)
 
 ### Changed
 
