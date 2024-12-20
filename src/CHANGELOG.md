@@ -63,6 +63,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [七星灯](卡牌/七星灯.md)
 - [ ] [麦穗头环](卡牌/麦穗头环.md)
 - [ ] [遗忘之祭仪](卡牌/遗忘之祭仪.md)
+- [ ] [御柱](卡牌/御柱.md)
+- [ ] [古战场](卡牌/古战场.md)
 
 #### 卡牌组
 
