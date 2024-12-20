@@ -62,6 +62,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [蓬莱的玉枝](卡牌/蓬莱的玉枝.md)
 - [ ] [七星灯](卡牌/七星灯.md)
 - [ ] [麦穗头环](卡牌/麦穗头环.md)
+- [ ] [遗忘之祭仪](卡牌/遗忘之祭仪.md)
+- [ ] [御柱](卡牌/御柱.md)
+- [ ] [古战场](卡牌/古战场.md)
+- [ ] [月之箭](卡牌/月之箭.md)
 
 #### 卡牌组
 
@@ -82,6 +86,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [真理](卡牌组/真理.md)
 - [ ] [奇迹](卡牌组/奇迹.md)
 - [ ] [丰饶](卡牌组/丰饶.md)
+- [ ] [仪式](卡牌组/仪式.md)
+- [ ] [分株](卡牌组/分株.md)
 
 ### Changed
 
@@ -113,6 +119,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [森林生态球](卡牌/森林生态球.md)
 - [ ] [毒刺鼠](卡牌/毒刺鼠.md)
 - [ ] [血腥苗床](卡牌/血腥苗床.md)
+- [ ] [献祭](卡牌/献祭.md)
 
 
 ##### 描述
