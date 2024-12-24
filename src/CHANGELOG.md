@@ -66,6 +66,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] [御柱](卡牌/御柱.md)
 - [ ] [古战场](卡牌/古战场.md)
 - [ ] [月之箭](卡牌/月之箭.md)
+- [ ] [注连绳](卡牌/注连绳.md)
 
 #### 卡牌组
 
