@@ -10,6 +10,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+#### 关键字
+
+- [复制抽出](名词解释.md#复制抽出)
+- [滋养](名词解释.md#滋养)
+- [仪式x](名词解释.md#仪式x)
+
 #### 卡牌
 
 - [七星灯](卡牌/七星灯.md)
