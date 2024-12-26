@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [月之箭](卡牌/月之箭.md)
 - [注连绳](卡牌/注连绳.md)
 - [围猎](卡牌/围猎.md)
+- [影魔](卡牌/影魔.md)
 
 #### 卡牌组
 
@@ -44,6 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [血腥](卡牌组/血腥.md)
 - [奇迹](卡牌组/奇迹.md)
 - [文物](卡牌组/文物.md)
+- [邪祟](卡牌组/邪祟.md)
 
 ## [1.0.0] - 2024-12-12
 
