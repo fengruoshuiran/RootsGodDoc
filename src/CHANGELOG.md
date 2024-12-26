@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌组
 
+- [血腥](卡牌组/血腥.md)
 - [奇迹](卡牌组/奇迹.md)
 - [文物](卡牌组/文物.md)
 
