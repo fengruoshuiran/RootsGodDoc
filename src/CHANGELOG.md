@@ -16,6 +16,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [滋养](名词解释.md#滋养)
 - [仪式x](名词解释.md#仪式x)
 
+#### 角色
+
+- [护林员](角色/护林员.md)
+- [开拓者](角色/开拓者.md)
+- [行商](角色/行商.md)
+
 #### 卡牌
 
 - [七星灯](卡牌/七星灯.md)
