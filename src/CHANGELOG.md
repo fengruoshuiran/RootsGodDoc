@@ -45,6 +45,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌
 
 - [万象树](卡牌/万象树.md)
+- [祷告](卡牌/祷告.md)
+- [拟态章鱼](卡牌/拟态章鱼.md)
 
 #### 卡牌组
 
