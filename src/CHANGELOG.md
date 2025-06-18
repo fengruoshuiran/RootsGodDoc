@@ -17,10 +17,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌
 
 - [破碎的法典](卡牌/破碎的法典.md)
+- [克洛托之丝](卡牌/克洛托之丝.md)
+- [命运之轮](卡牌/命运之轮.md)
 
 #### 卡牌组
 
 - [文物](卡牌组/文物.md)
+- [神秘](卡牌组/神秘.md)
 
 ### Changed
 
