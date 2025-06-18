@@ -8,6 +8,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+#### 内容
+
+- 添加了若干3级卡牌
+
+#### 卡牌
+
+- [破碎的法典](卡牌/破碎的法典.md)
+
+#### 卡牌组
+
+- [文物](卡牌组/文物.md)
+
 ## [1.1.1] - 2025-6-18
 
 ### Changed
