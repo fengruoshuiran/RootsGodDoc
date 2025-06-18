@@ -8,13 +8,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2025-6-18
+
 ### Added
+
+#### 内容
+
+- 添加了对牌库与相关数值公式的解释 [牌库](牌库.md)
 
 #### 关键字
 
 - [复制抽出](名词解释.md#复制抽出)
 - [滋养](名词解释.md#滋养)
 - [仪式x](名词解释.md#仪式x)
+- [倒数](名词解释.md#倒数)
 
 #### 角色
 
@@ -42,11 +49,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+#### 内容
+
+- 使用规范关键字倒数替代先前的罗马数字后缀的词条过于复杂的描述，使得它们的逻辑整体更为一致。由于涉及到的卡牌较多不在下表中列出
+
 #### 卡牌
 
-- [万象树](卡牌/万象树.md)
-- [祷告](卡牌/祷告.md)
-- [拟态章鱼](卡牌/拟态章鱼.md)
+- [万象树](卡牌/万象树.md)，修改了效果以更适应邪祟的风格
+- [祷告](卡牌/祷告.md)，现在会摧毁自身来减少不必要的节点生成
+- [拟态章鱼](卡牌/拟态章鱼.md)，修改为了更容易实现的效果
+- [增生之种](卡牌组/增生之种.md)，这是由于分株被移除导致的
 
 #### 卡牌组
 
@@ -54,6 +66,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [奇迹](卡牌组/奇迹.md)
 - [文物](卡牌组/文物.md)
 - [邪祟](卡牌组/邪祟.md)
+
+### Removed
+
+#### 卡牌
+
+- 分株，它过于强力而难以平衡
+
+#### 卡牌组
+
+- 分株，理由同上
 
 ## [1.0.0] - 2024-12-12
 
@@ -71,8 +93,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 添加了mdbook使用说明
 - 添加了本地测试脚本，完成环境安装后可以启动local_test.bat来本地运行
 - 添加了CHANGELOG
-
-### Added
 
 #### 关键字
 
