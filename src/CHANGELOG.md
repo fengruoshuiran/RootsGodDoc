@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 内容
 
-- 添加了若干3级卡牌
+- 添加了若干3级卡牌，重平衡了部分卡牌组的权重
 
 #### 卡牌
 
@@ -27,11 +27,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌
 
 - [白雏菊](卡牌/白雏菊.md)，从2级提高至3级
+- [种子炸弹](卡牌/种子炸弹.md)，从2级提高至3级
 
 #### 卡牌组
 
 - [花](卡牌组/花.md)，重平衡了权重使得结构近似于其他卡牌组
 - [诡异](卡牌组/诡异.md)，重平衡了权重使得结构近似于其他卡牌组
+- [种子](卡牌组/种子.md)，重平衡了权重使得结构近似于其他卡牌组
 
 ## [1.1.1] - 2025-6-18
 
