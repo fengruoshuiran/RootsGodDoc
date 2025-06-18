@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2025-6-18
+
 ### Added
 
 #### 内容
@@ -46,6 +48,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [分株](卡牌组/分株.md)
 
 ### Changed
+
+#### 内容
 
 - 使用规范关键字倒数替代先前的罗马数字后缀的词条过于复杂的描述，使得它们的逻辑整体更为一致。由于涉及到的卡牌较多不在下表中列出
 
