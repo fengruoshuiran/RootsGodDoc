@@ -26,8 +26,8 @@ card.branchs[branch_name]: bool
 
 ## 卡牌组联系
 
-更好的了解与梳理卡牌组之间的潜在联系，请阅读 [tldraw页面](https://www.tldraw.com/r/8quNRPnCJYpRh9JxCG35c?d=v-506.150.2830.1418.page)
+更好的了解与梳理卡牌组之间的潜在联系，请阅读 [tldraw页面](https://www.tldraw.com/p/56id4csFIRmoPfq1bX9s1?d=v-72.312.1935.1100.page)
 
 也可以在此处简单查看
 
-<iframe src="https://www.tldraw.com/r/8quNRPnCJYpRh9JxCG35c?d=v-506.150.2830.1418.page" width="1080" height="720"></iframe>
+<iframe src="https://www.tldraw.com/p/56id4csFIRmoPfq1bX9s1?d=v-72.312.1935.1100.page" width="1080" height="720"></iframe>
