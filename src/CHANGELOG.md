@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [复制抽出](名词解释.md#复制抽出)
 - [滋养](名词解释.md#滋养)
 - [仪式x](名词解释.md#仪式x)
+- [倒数](名词解释.md#倒数)
 
 #### 角色
 
@@ -45,6 +46,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [分株](卡牌组/分株.md)
 
 ### Changed
+
+- 使用规范关键字倒数替代先前的罗马数字后缀的词条过于复杂的描述，使得它们的逻辑整体更为一致。由于涉及到的卡牌较多不在下表中列出
 
 #### 卡牌
 
