@@ -22,6 +22,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [文物](卡牌组/文物.md)
 
+### Changed
+
+#### 卡牌
+
+- [白雏菊](卡牌/白雏菊.md)，从2级提高至3级
+
+#### 卡牌组
+
+- [花](卡牌组/花.md)，重平衡了权重使得结构近似于其他卡牌组
+
 ## [1.1.1] - 2025-6-18
 
 ### Changed
