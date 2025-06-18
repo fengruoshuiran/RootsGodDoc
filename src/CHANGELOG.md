@@ -8,6 +8,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.1] - 2025-6-18
+
+### Changed
+
+#### 内容
+
+- 更新了卡牌组描述以符合新设计概念
+- 将鹊桥修改为了达贡之触，也修改了相应token，将其加入血腥卡牌组
+
+#### 卡牌
+
+- [达贡之触](卡牌/达贡之触.md)
+- [触须](卡牌/触须.md)
+
+#### 卡牌组
+
+- [血腥](卡牌组/血腥.md)
+
 ## [1.1.0] - 2025-6-18
 
 ### Added
