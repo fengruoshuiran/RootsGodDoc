@@ -20,11 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [克洛托之丝](卡牌/克洛托之丝.md)
 - [命运之轮](卡牌/命运之轮.md)
 
-#### 卡牌组
-
-- [文物](卡牌组/文物.md)
-- [神秘](卡牌组/神秘.md)
-
 ### Changed
 
 #### 卡牌
@@ -34,6 +29,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌组
 
+- [文物](卡牌组/文物.md)，添加了卡牌
+- [神秘](卡牌组/神秘.md)，添加了卡牌，数量从3增加至4
 - [花](卡牌组/花.md)，重平衡了权重使得结构近似于其他卡牌组
 - [诡异](卡牌组/诡异.md)，重平衡了权重使得结构近似于其他卡牌组
 - [种子](卡牌组/种子.md)，重平衡了权重使得结构近似于其他卡牌组
