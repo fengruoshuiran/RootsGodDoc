@@ -12,7 +12,7 @@ card_group.is_unlock: bool
 card_group.cards[card_name].is_unlock: bool
 ```
 
-只有至少成功的 `占领`、`放置` 或 `洗入` 一次，才可以在图鉴中查看图像与描述。解锁但未“见过”时只能看到 ？卡背
+只有至少成功的 `揭露` 一次，才可以在图鉴中查看图像与描述
 
 ```
 card.is_appear: bool
