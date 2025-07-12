@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [留影机](卡牌/留影机.md)
 - [曼德拉记录](卡牌/曼德拉记录.md)
 - [诡雾](卡牌/诡雾.md)
+- [血木](卡牌/血木.md)
 
 ### Changed
 
@@ -25,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [文物](卡牌组/文物.md)，新增了[破人偶](卡牌/破人偶.md)、[伯克盾XIII](卡牌/伯克盾XIII.md)、[留影机](卡牌/留影机.md)
 - [神秘](卡牌组/神秘.md)，新增了[诡雾](卡牌/诡雾.md)
+- [血腥](卡牌组/血腥.md)，新增了[血木](卡牌/血木.md)
 
 ## [1.1.2] - 2025-6-18
 
