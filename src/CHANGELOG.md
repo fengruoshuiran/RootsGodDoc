@@ -8,6 +8,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+#### 卡牌
+
+- [破人偶](卡牌/破人偶.md)
+- [空](卡牌/空.md)
+- [伯克盾XIII](卡牌/伯克盾XIII.md)
+- [留影机](卡牌/留影机.md)
+- [曼德拉记录](卡牌/曼德拉记录.md)
+
+### Changed
+
+#### 内容
+
+- [文物](卡牌组/文物.md)，新增了[破人偶](卡牌/破人偶.md)、[伯克盾XIII](卡牌/伯克盾XIII.md)、[留影机](卡牌/留影机.md)
+
 ## [1.1.2] - 2025-6-18
 
 ### Added
