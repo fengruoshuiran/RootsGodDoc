@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [血木](卡牌/血木.md)
 - [初拥](卡牌/初拥.md)
 - [不老泉](卡牌/不老泉.md)
+- [残破记忆](卡牌/残破记忆.md)
 
 ### Changed
 
