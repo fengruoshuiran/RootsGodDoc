@@ -20,12 +20,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [诡雾](卡牌/诡雾.md)
 - [血木](卡牌/血木.md)
 - [初拥](卡牌/初拥.md)
+- [不老泉](卡牌/不老泉.md)
 
 ### Changed
 
 #### 卡牌
 
-- [鼩鼱](卡牌/鼩鼱.md)，等级由5下调至3，从传说卡池移动到
+- [鼩鼱](卡牌/鼩鼱.md)，等级由5下调至3，从传说卡池移动到变异
 
 #### 卡牌组
 
