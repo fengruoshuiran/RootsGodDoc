@@ -8,6 +8,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+#### 卡牌
+
+- [魂灯](卡牌/魂灯.md)
+
+### Changed
+
+#### 卡牌组
+
+- [邪祟](卡牌组/邪祟.md)
+
 ## [1.1.3] - 2025-7-13
 
 ### Added
