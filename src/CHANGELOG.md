@@ -8,6 +8,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.4] - 2025-7-16
+
+### Added
+
+#### 卡牌
+
+- [魂灯](卡牌/魂灯.md)
+- [谶书](卡牌/谶书.md)
+- [血色乐园](卡牌/血色乐园.md)
+- [黯光](卡牌/黯光.md)
+
+### Changed
+
+#### 卡牌组
+
+- [光](卡牌组/光.md)
+- [血腥](卡牌组/血腥.md)
+- [邪祟](卡牌组/邪祟.md)
+- [文物](卡牌组/文物.md)
+
 ## [1.1.3] - 2025-7-13
 
 ### Added
