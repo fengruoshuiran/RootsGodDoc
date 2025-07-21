@@ -8,6 +8,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+#### 卡牌
+
+- [血祭](卡牌/血祭.md)
+
+### Changed
+
+#### 卡牌组
+
+- [仪式](卡牌组/仪式.md)
+- [邪祟](卡牌组/邪祟.md)
+
 ## [1.1.4] - 2025-7-16
 
 ### Added
