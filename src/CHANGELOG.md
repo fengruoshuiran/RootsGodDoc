@@ -14,6 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [血祭](卡牌/血祭.md)
 
+#### 天赋
+
+- [兔子脚](卡牌组/兔子脚.md)
+
 ### Changed
 
 #### 卡牌组
