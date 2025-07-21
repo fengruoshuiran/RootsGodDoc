@@ -21,6 +21,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [仪式](卡牌组/仪式.md)
 - [邪祟](卡牌组/邪祟.md)
 
+#### 天赋
+
+- 将职业更改为天赋系统，规范了描述
+
 ## [1.1.4] - 2025-7-16
 
 ### Added
