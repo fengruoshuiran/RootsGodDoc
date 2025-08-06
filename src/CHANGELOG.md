@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 天赋
 
-- [兔子脚](卡牌组/兔子脚.md)
+- [兔子脚](天赋/兔子脚.md)
 - [吹箭](天赋/吹箭.md)
 - [铜蛇](天赋/铜蛇.md)
 - [头灯](天赋/头灯.md)
