@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.7]
+
+### Changed
+
+#### 天赋
+
+- [兔子脚](天赋/兔子脚.md)，提高了Cost
+
 ## [1.1.6] - 2025-8-14
 
 ### Added
