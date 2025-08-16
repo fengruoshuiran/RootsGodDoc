@@ -289,7 +289,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌
 
-- [灰烬](卡牌/灰烬.md)
+- [残渣](卡牌/残渣.md)
 - [种子炸弹](卡牌/种子炸弹.md)
 - [蝌蚪](卡牌/蝌蚪.md)
 - [猫](卡牌/猫.md)
