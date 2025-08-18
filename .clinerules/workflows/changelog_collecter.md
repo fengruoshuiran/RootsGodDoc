@@ -76,6 +76,7 @@ graph TD
      ```
 
 7. **写入文件自身的变更**
+   - 特别注意，版本日志规范是倒序的
    ```xml
    <replace_in_file>
    <path>src/天赋/兔子脚.md</path>

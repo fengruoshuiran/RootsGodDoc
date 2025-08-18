@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [兔子脚](天赋/兔子脚.md)，提高了Cost
 - [风铃](天赋/风铃.md)，修改为更容易实现的效果
+- [三宝磨](天赋/三宝磨.md) - 调整了白鹰效果的描述，去除"你的"以保持一致性
 
 ## [1.1.6] - 2025-8-14
 
@@ -257,7 +258,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [御柱](卡牌/御柱.md)
 - [古战场](卡牌/古战场.md)
 - [月之箭](卡牌/月之箭.md)
-- [注连绳](卡牌/注连绳.md)
+- [注连绳](卡牌/注连均.md)
 - [围猎](卡牌/围猎.md)
 - [影魔](卡牌/影魔.md)
 
