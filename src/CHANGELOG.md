@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.7]
 
+### Added
+
+#### 卡牌
+
+- [孢子老鼠](src/卡牌/孢子老鼠.md) - 从关卡设计中补充回文档
+
 ### Changed
 
 #### 卡牌
