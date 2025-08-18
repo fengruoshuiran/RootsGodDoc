@@ -75,7 +75,7 @@ graph TD
      - 新增了特殊效果描述
      ```
 
-7. **写入文件CHANGELOG**
+7. **写入文件自身的变更**
    ```xml
    <replace_in_file>
    <path>src/天赋/兔子脚.md</path>
