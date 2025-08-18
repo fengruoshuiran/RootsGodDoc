@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 天赋
 
 - [兔子脚](天赋/兔子脚.md)，提高了Cost
+- [风铃](天赋/风铃.md)，修改为更容易实现的效果
 
 ## [1.1.6] - 2025-8-14
 

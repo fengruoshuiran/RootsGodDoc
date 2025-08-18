@@ -33,7 +33,6 @@ graph TD
      </execute_command>
      ```
    - 解析输出获取修改的文件路径
-   - 过滤出包含CHANGELOG的文件
 
 3. **AI总结变更内容**
    - 对每个修改的文件使用read_file读取完整内容
@@ -48,7 +47,8 @@ graph TD
      <path>src/天赋/兔子脚.md</path>
      </read_file>
      ```
-   - 将AI总结写入文件CHANGELOG部分:
+   - 每个文件自身在结尾处会记录自身的变更日志，你需要先记录它。请注意，CHANGELOG是版本倒序的
+   - 将AI总结写入文件自身的CHANGELOG部分:
      ```xml
      <replace_in_file>
      <path>src/天赋/兔子脚.md</path>
@@ -62,6 +62,7 @@ graph TD
      +++++++ REPLACE
 
 4. **更新CHANGELOG.md**
+   - 首先读取CHANGELOG.md文件本身，学习并模仿历史格式
    - 使用replace_in_file工具添加变更
    - 示例:
      ```xml
@@ -98,7 +99,7 @@ graph TD
      <path>src/SUMMARY.md</path>
      </read_file>
      ```
-   - 如需更新，使用replace_in_file修改
+   - 如需更新，使用replace_in_file修改。如果不需要更新，则直接结束这一步骤
 
 ## 注意事项
 1. 必须从.clinerules/version.md获取版本号
