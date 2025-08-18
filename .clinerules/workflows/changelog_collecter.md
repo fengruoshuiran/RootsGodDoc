@@ -47,7 +47,7 @@ graph TD
      <path>src/天赋/兔子脚.md</path>
      </read_file>
      ```
-   - 每个文件自身在结尾处会记录自身的变更日志，你需要先记录它。请注意，CHANGELOG是版本倒序的
+   - 每个文件自身在结尾处会记录自身的变更日志，你需要先记录它，如果用户已经自行编写了那么可以跳过这一步。请注意，CHANGELOG是版本倒序的
    - 将AI总结写入文件自身的CHANGELOG部分:
      ```xml
      <replace_in_file>
@@ -93,6 +93,7 @@ graph TD
      - 链接格式必须一致
      - 新增文件必须添加对应条目
      - 重命名文件需更新旧路径
+   - 注意，SUMMARY是格式化的，类似python前导空白数量是语义的一部分，不可缺少
    - 示例验证function call:
      ```xml
      <read_file>
