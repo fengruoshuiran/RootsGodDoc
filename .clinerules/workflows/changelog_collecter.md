@@ -5,11 +5,15 @@ graph TD
     A[开始] --> B[读取version.md获取版本号]
     B --> C[识别修改的文件]
     C --> D[读取文件内容]
-    D --> E[AI总结变更内容]
-    E --> F[更新CHANGELOG.md]
-    C --> G[验证SUMMARY.md]
-    F --> H[完成]
-    G --> H
+    D --> E{已有变更日志?}
+    E -->|是| F[记录已有变更]
+    E -->|否| G[使用git diff获取变更]
+    G --> H[AI总结变更内容]
+    H --> I[写入文件CHANGELOG]
+    I --> J[更新CHANGELOG.md]
+    C --> K[验证SUMMARY.md]
+    J --> L[完成]
+    K --> L
 ```
 
 ## 详细分步指南
@@ -34,34 +38,60 @@ graph TD
      ```
    - 解析输出获取修改的文件路径
 
-3. **AI总结变更内容**
-   - 对每个修改的文件使用read_file读取完整内容
-   - AI自动分析并总结变更要点
+3. **读取文件内容**
+   ```xml
+   <read_file>
+   <path>src/天赋/兔子脚.md</path>
+   </read_file>
+   ```
+
+4. **检查已有变更日志**
+   - 如果文件已有完整的变更日志，直接记录
+   - 示例已有变更格式：
+     ```
+     ## CHANGELOG
+     
+     - [1.1.7] 修改了触发条件
+     - [1.1.6] 新增了特殊效果
+     ```
+
+5. **使用git diff获取变更(若无日志)**
+   ```xml
+   <execute_command>
+   <command>git diff --unified=0 src/天赋/兔子脚.md</command>
+   <requires_approval>false</requires_approval>
+   </execute_command>
+   ```
+   - 解析diff输出获取具体变更
+
+6. **AI总结变更内容**
    - 总结规则:
      - 识别新增/修改/删除的内容
      - 提取关键变更描述
      - 保持简洁一致的格式
-   - 示例:
-     ```xml
-     <read_file>
-     <path>src/天赋/兔子脚.md</path>
-     </read_file>
+   - 示例输出:
      ```
-   - 每个文件自身在结尾处会记录自身的变更日志，你需要先记录它，如果用户已经自行编写了那么可以跳过这一步。请注意，CHANGELOG是版本倒序的
-   - 将AI总结写入文件自身的CHANGELOG部分:
-     ```xml
-     <replace_in_file>
-     <path>src/天赋/兔子脚.md</path>
-     <diff>
-     ------- SEARCH
-     ## CHANGELOG
-     =======
-     ## CHANGELOG
+     - 提高了Cost数值从1→2
+     - 新增了特殊效果描述
+     ```
 
-     - [1.1.7] 提高了Cost数值从1→2
-     +++++++ REPLACE
+7. **写入文件CHANGELOG**
+   ```xml
+   <replace_in_file>
+   <path>src/天赋/兔子脚.md</path>
+   <diff>
+   ------- SEARCH
+   ## CHANGELOG
+   =======
+   ## CHANGELOG
 
-4. **更新CHANGELOG.md**
+   ### [1.1.7] - 2025-08-18
+
+   - 提高了Cost数值从1→2
+   - 新增了特殊效果描述
+   +++++++ REPLACE
+
+8. **更新CHANGELOG.md**
    - 首先读取CHANGELOG.md文件本身，学习并模仿历史格式
    - 使用replace_in_file工具添加变更
    - 示例:
@@ -84,7 +114,7 @@ graph TD
      </replace_in_file>
      ```
 
-5. **验证SUMMARY.md**
+9. **验证SUMMARY.md**
    - 使用read_file读取SUMMARY.md内容
    - 检查修改的文件是否在正确分类下
    - 验证规则：
