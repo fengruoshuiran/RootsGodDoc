@@ -77,70 +77,17 @@ graph TD
 
 7. **写入文件自身的变更**
    - 特别注意，版本日志规范是倒序的
-   ```xml
-   <replace_in_file>
-   <path>src/天赋/兔子脚.md</path>
-   <diff>
-   ------- SEARCH
-   ## CHANGELOG
-   =======
-   ## CHANGELOG
-
-   ### [1.1.7] - 2025-08-18
-
-   - 提高了Cost数值从1→2
-   - 新增了特殊效果描述
-   +++++++ REPLACE
-
-8. **更新CHANGELOG.md**
-   - 首先读取CHANGELOG.md文件本身，学习并模仿历史格式
-   - 使用replace_in_file工具添加变更
+   - 读取整个文件内容，添加变更后完整重写
    - 示例:
      ```xml
-     <replace_in_file>
-     <path>src/CHANGELOG.md</path>
-     <diff>
-     ------- SEARCH
-     ## [Unreleased]
-     =======
-     ## [Unreleased]
+     <write_to_file>
+     <path>src/天赋/兔子脚.md</path>
+     <content>
+     [原文件完整内容]
+     
+     ## CHANGELOG
 
-     ### Changed
+     ### [1.1.7] - 2025-08-18
 
-     #### 天赋
-
-     - [兔子脚](天赋/兔子脚.md) - 提高了Cost
-     +++++++ REPLACE
-     </diff>
-     </replace_in_file>
-     ```
-
-9. **验证SUMMARY.md**
-   - 使用read_file读取SUMMARY.md内容
-   - 检查修改的文件是否在正确分类下
-   - 验证规则：
-     - 文件路径必须完全匹配
-     - 分类层级必须正确  
-     - 链接格式必须一致
-     - 新增文件必须添加对应条目
-     - 重命名文件需更新旧路径
-   - 注意，SUMMARY是格式化的，类似python前导空白数量是语义的一部分，不可缺少
-   - 示例验证function call:
-     ```xml
-     <read_file>
-     <path>src/SUMMARY.md</path>
-     </read_file>
-     ```
-   - 如需更新，使用replace_in_file修改。如果不需要更新，则直接结束这一步骤
-
-## 注意事项
-1. 必须从.clinerules/version.md获取版本号
-2. 每个function调用后需确认执行结果
-3. 变更记录格式必须严格一致
-4. SUMMARY验证要点：
-   - 检查文件是否在正确的分类下
-   - 确认路径大小写一致
-   - 验证Markdown链接格式
-   - 确保没有重复条目
-5. 使用完整文件路径
-6. 确保SEARCH/REPLACE块格式正确
+     - 提高了Cost数值从1→2
+     - 新增了特殊效果描述
