@@ -30,7 +30,7 @@ graph TD
      ```
 
 2. __识别修改的文件__
-
+   - 使用execute_command执行git add .确保所有文件被正确追踪
    - 使用execute_command执行git status
    - 示例function call:
      ```xml
