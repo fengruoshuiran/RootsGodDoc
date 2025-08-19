@@ -16,6 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [尾巴](尾巴.md)，从关卡设计中补充回文档
 - [受伤蜥蜴](受伤蜥蜴.md)，从关卡设计中补充回文档
 - [蜥蜴](蜥蜴.md)，从关卡设计中补充回文档
+- [孢子](卡牌/孢子.md)，从关卡设计中补充回文档，修改了部分效果与名称
+- [无趣植物](无趣植物.md)，从关卡设计中补充回文档，修改了部分效果与名称
 
 ### Changed
 
