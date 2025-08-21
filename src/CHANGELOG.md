@@ -26,7 +26,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌
 
-- [拟态](卡牌/拟态.md)，优化了变形逻辑并调整了名称
+- [拟态](卡牌/拟态.md)，从拟态章鱼更名
+
+#### 卡牌组
+
+- [自然](卡牌组/自然.md)，拆分为根据关卡变化
 
 #### 天赋
 

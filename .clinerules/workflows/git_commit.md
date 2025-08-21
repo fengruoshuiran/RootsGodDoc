@@ -2,9 +2,8 @@
 
 这是一个非常简单的任务，只需要简短快速的完成
 
-1. 执行 `git add .`
-2. 执行 `git status --porcelain`
-3. 总结有效的信息，最后进行 `git commit`，这一步需要经过我审核
+1. 执行 `git --no-pager diff` 获取所有更改
+2. 简短的总结，然后进行git commit提交，这一步需要我进行确认
 
 ## 注意事项
 
