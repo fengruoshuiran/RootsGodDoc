@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [无趣植物](卡牌/无趣植物.md)，从关卡设计中补充回文档，修改了部分效果与名称
 - [野猪](卡牌/野猪.md)，从关卡设计中补充回文档
 - [篝火](卡牌/篝火.md)，从关卡设计中补充回文档
+- [雪兔](卡牌/雪兔.md)，从关卡设计中补充回文档
 
 ### Changed
 
