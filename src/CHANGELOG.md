@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [蜥蜴](蜥蜴.md)，从关卡设计中补充回文档
 - [孢子](卡牌/孢子.md)，从关卡设计中补充回文档，修改了部分效果与名称
 - [无趣植物](无趣植物.md)，从关卡设计中补充回文档，修改了部分效果与名称
+- [野猪](野猪.md)，从关卡设计中补充回文档
 
 ### Changed
 
@@ -31,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [风铃](天赋/风铃.md)，修改为更容易实现的效果
 - [三宝磨](天赋/三宝磨.md)，调整了白鹰效果的描述，去除"你的"以保持一致性
 - [黑斗篷](天赋/黑斗篷.md)，精确了效果描述
+- [头灯](卡牌/头灯.md)，规范描述
 
 ## [1.1.6] - 2025-8-14
 
