@@ -5,8 +5,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.7]
 
-## [Unreleased]
+### Added
+
+#### 卡牌
+
+- [孢子老鼠](卡牌/孢子老鼠.md)，从关卡设计中补充回文档
+- [毒蛇](卡牌/毒蛇.md)，从关卡设计中补充回文档
+- [尾巴](卡牌/尾巴.md)，从关卡设计中补充回文档
+- [受伤蜥蜴](卡牌/受伤蜥蜴.md)，从关卡设计中补充回文档
+- [蜥蜴](卡牌/蜥蜴.md)，从关卡设计中补充回文档
+- [孢子](卡牌/孢子.md)，从关卡设计中补充回文档，修改了部分效果与名称
+- [无趣植物](卡牌/无趣植物.md)，从关卡设计中补充回文档，修改了部分效果与名称
+- [野猪](卡牌/野猪.md)，从关卡设计中补充回文档
+- [篝火](卡牌/篝火.md)，从关卡设计中补充回文档
+- [雪兔](卡牌/雪兔.md)，从关卡设计中补充回文档
+
+### Changed
+
+#### 卡牌
+
+- [拟态](卡牌/拟态.md)，从拟态章鱼更名
+
+#### 卡牌组
+
+- [自然](卡牌组/自然.md)，拆分为根据关卡变化
+
+#### 天赋
+
+- [兔子脚](天赋/兔子脚.md)，提高了Cost
+- [风铃](天赋/风铃.md)，修改为更容易实现的效果
+- [三宝磨](天赋/三宝磨.md)，调整了白鹰效果的描述，去除"你的"以保持一致性
+- [黑斗篷](天赋/黑斗篷.md)，精确了效果描述
+- [头灯](天赋/头灯.md)，规范描述
 
 ## [1.1.6] - 2025-8-14
 
@@ -247,7 +279,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [御柱](卡牌/御柱.md)
 - [古战场](卡牌/古战场.md)
 - [月之箭](卡牌/月之箭.md)
-- [注连绳](卡牌/注连绳.md)
+- [注连绳](卡牌/注连均.md)
 - [围猎](卡牌/围猎.md)
 - [影魔](卡牌/影魔.md)
 
@@ -281,7 +313,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌
 
-- [灰烬](卡牌/灰烬.md)
+- [残渣](卡牌/残渣.md)
 - [种子炸弹](卡牌/种子炸弹.md)
 - [蝌蚪](卡牌/蝌蚪.md)
 - [猫](卡牌/猫.md)
