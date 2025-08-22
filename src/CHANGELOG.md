@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.7]
+## [1.1.7] - 2025-8-21
 
 ### Added
 
@@ -39,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [三宝磨](天赋/三宝磨.md)，调整了白鹰效果的描述，去除"你的"以保持一致性
 - [黑斗篷](天赋/黑斗篷.md)，精确了效果描述
 - [头灯](天赋/头灯.md)，规范描述
+- [水晶球](天赋/水晶球.md)，移除了条件但增加了要求数量
 
 ## [1.1.6] - 2025-8-14
 
