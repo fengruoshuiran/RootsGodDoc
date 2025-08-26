@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.8]
+
+### Changed
+
+#### 卡牌
+
+- [寄生物](卡牌/寄生物.md)，修改了标签与名称
+- [毒蛇](卡牌/毒蛇.md)，补充了可吸血量
+- [蜥蜴](卡牌/蜥蜴.md)，规范描述
+
 ## [1.1.7] - 2025-8-21
 
 ### Added
