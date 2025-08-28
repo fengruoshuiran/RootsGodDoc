@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+#### 卡牌
+
+- [异变毛皮](卡牌/异变毛皮.md)
+- [旅鼠群](卡牌/旅鼠群.md)
+- [月光蝶](卡牌/月光蝶.md)
+- [白鼬](卡牌/白鼬.md)
+
 #### 天赋
 
 - [栈](天赋/栈.md)
@@ -20,6 +27,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [寄生物](卡牌/寄生物.md)，修改了标签与名称
 - [毒蛇](卡牌/毒蛇.md)，补充了可吸血量
 - [蜥蜴](卡牌/蜥蜴.md)，规范描述
+- [雪兔](卡牌/雪兔.md)，修复错误的标签
+
+#### 卡牌组
+
+- [自然](卡牌组/自然.md)，补充了缺失的基础生物部分
 
 ## [1.1.7] - 2025-8-21
 
