@@ -15,7 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [旅鼠群](卡牌/旅鼠群.md)
 - [月光蝶](卡牌/月光蝶.md)
 - [白鼬](卡牌/白鼬.md)
-- [孢子老鼠](卡牌/孢子老鼠.md)，因误操作删除，重新引入。主要标签修改为 `寄生物` 而不是 `老鼠`
 - [替罪](卡牌/替罪.md)
 - [渊生](卡牌/渊生.md)
 - [祖蛙](卡牌/祖蛙.md)
@@ -44,6 +43,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [生态球](卡牌/生态球.md)，更名为生态球，因为 [自然](../卡牌组/自然.md) 已解决了环境适配问题
 
 - [黑猫](卡牌/黑猫.md)，移除了 `猫` 标签，因为没有制作变种的计划
+- [诡异木芽](卡牌/诡异木芽.md)，重做了效果
+- [诡异聚合物](卡牌/诡异聚合物.md)，重做了效果
 
 #### 卡牌组
 
