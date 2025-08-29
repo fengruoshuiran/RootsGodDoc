@@ -45,6 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [黑猫](卡牌/黑猫.md)，移除了 `猫` 标签，因为没有制作变种的计划
 - [诡异木芽](卡牌/诡异木芽.md)，重做了效果
 - [诡异聚合物](卡牌/诡异聚合物.md)，重做了效果
+- [瘟疫鼠](卡牌/瘟疫鼠.md)，规范了描述
 
 #### 卡牌组
 
