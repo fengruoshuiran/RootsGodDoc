@@ -5,7 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.8]
+## [1.1.9]
+
+## [1.1.8] - 2025-8-29
 
 ### Added
 
@@ -96,9 +98,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [自然](卡牌组/自然.md)，补充了缺失的基础生物部分
 - [变种](卡牌组/变种.md)，重命名为变种以更符合事实状态。彻底重构了内容结构，现在类似[自然](../卡牌组/自然.md)也会根据章节进行调整。补充数量从5提升至6
-- [神秘](卡牌组/神秘.md)，更名了 [生态球](../卡牌/生态球.md)，因为[自然](自然.md)引入了环境识别，高级卡牌不再需要这样的方式
+- [神秘](卡牌组/神秘.md)，更名了 [生态球](卡牌/生态球.md)，因为[自然](自然.md)引入了环境识别，高级卡牌不再需要这样的方式
 - [诡异](卡牌组/诡异.md)，重做了诡异类的基本效果，使其统一且一致
-- [仪式](卡牌组/仪式.md)，添加了 [替罪](../卡牌/替罪.md)
+- [仪式](卡牌组/仪式.md)，添加了 [替罪](卡牌/替罪.md)
 
 #### 天赋
 
