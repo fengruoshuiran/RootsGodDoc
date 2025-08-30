@@ -16,6 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+#### 内容
+
+- 为每一个卡牌组添加了等级列
+
 #### 卡牌
 
 - [反魂蝶](卡牌/反魂蝶.md)，修改更严谨的描述使效果符合预期
