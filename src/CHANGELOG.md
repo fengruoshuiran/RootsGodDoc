@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌
 
+- [沙赫利姆尼尔](卡牌/沙赫利姆尼尔.md)，修改无尽盛宴描述以更复用关键字
 - [风鼬](卡牌/风鼬.md)，更名
 - [极光](卡牌/极光.md)，修改为对关卡设计更友好的方式
 
