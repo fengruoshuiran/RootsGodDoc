@@ -1,0 +1,11 @@
+[package]
+name = "mdbook-add-references"
+version = "0.1.0"
+edition = "2021"
+description = "An mdBook preprocessor that adds reference sections to card documents"
+authors = ["Cline"]
+
+[dependencies]
+mdbook = "0.4"
+pulldown-cmark = "0.10"
+serde_json = "1.0"

@@ -7,3 +7,6 @@ title = "腐根之里设计文档"
 
 [output.html]
 mathjax-support = true
+
+[preprocessor.add-references]
+command = "cargo run --manifest-path=mdbook-add-references/Cargo.toml"

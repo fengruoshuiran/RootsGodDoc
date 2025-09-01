@@ -7,11 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.10]
 
+### Added
+
+#### 内容
+
+- 开发了mdbook-add-references插件，为所有卡牌添加了自动追踪的预处理被引用链接，方便查看和阅读文档
+
 ### Changed
 
 #### 卡牌
 
 - [风鼬](卡牌/风鼬.md)，更名
+- [极光](卡牌/极光.md)，修改为对关卡设计更友好的方式
 
 ## [1.1.9] - 2025-8-30
 
