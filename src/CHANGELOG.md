@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.12] - 2025-9-9
+
+### Changed
+
+#### 内容
+
+- 目录结构更新：从 `.clinerules/` 重命名为 `.kilocode/`
+- 版本更新：从 `1.1.11` 更新至 `1.1.12`
+
+#### 卡牌
+
+- [幻之蝶](卡牌/幻之蝶.md)，平衡效果，降低等级从3至2，修改蔓延效果描述
+
 ## [1.1.11] - 2025-9-6
 
 ### Added
@@ -30,9 +43,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [残破记忆](卡牌/残破记忆.md)，将泡影的消失描述修改为更严谨的 `摧毁` 自身
 - [神猪](卡牌/神猪.md)，从 沙赫利姆尼尔 更名，因为其过于直白
-- [金鬃](卡牌/金鬃.md)，降低了等级与词条效果，以使得 [变种猪](../卡牌组/变种猪.md) 的结构与其他组近似匹配
+- [金鬃](卡牌/金鬃.md)，降低了等级与极效果，以使得 [变种猪](../卡牌组/变种猪.md) 的结构与其他组近似匹配
 - [对称破缺](卡牌/对称破缺.md)，修改为规范描述，它们应该正确的与 `消失` 时机联动
-- [异变毛皮](卡牌/异变毛皮.md)，精确了文本
+- [异变毛皮](卡牌/极变毛皮.md)，精确了文本
 - [无上赐福](卡牌/无上赐福.md)，修改为规范描述，它们应该正确的与 `消失` 时机联动
 - [混沌花](卡牌/混沌花.md)，添加了额外token
 
