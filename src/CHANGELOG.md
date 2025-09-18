@@ -5,14 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.12] - 2025-9-9
+## [1.1.12] - 2025-9-18
 
 ### Changed
-
-#### 内容
-
-- 目录结构更新：从 `.clinerules/` 重命名为 `.kilocode/`
-- 版本更新：从 `1.1.11` 更新至 `1.1.12`
 
 #### 卡牌
 
