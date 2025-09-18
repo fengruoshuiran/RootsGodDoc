@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌
 
+- [上古水果](卡牌/上古水果.md)
+- [上古种子](卡牌/上古种子.md)
 - [魔豆](卡牌/魔豆.md)
 - [剃刀](天赋/剃刀.md)
 
@@ -22,7 +24,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### 卡牌组
 
-- [种子](卡牌组/种子.md)，增加了 [魔豆](../卡牌/魔豆.md)
+- [文物](卡牌组/文物.md)，添加了 [上古种子](../卡牌/上古种子.md)
+- [种子](卡牌组/种子.md)，增加了 [魔豆](../卡牌/魔豆.md)、[上古种子](../卡牌/上古种子.md)
 
 ## [1.1.11] - 2025-9-6
 
