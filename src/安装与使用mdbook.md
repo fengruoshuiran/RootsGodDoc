@@ -20,7 +20,7 @@ cargo install mdbook
 
 ### markdown简介
 
-mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://markdown.com.cn/basic-syntax/)
+mdbook使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://markdown.com.cn/basic-syntax/)
 
 推荐使用vscode编辑，按需安装拓展
 
