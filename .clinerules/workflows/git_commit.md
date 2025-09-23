@@ -2,7 +2,7 @@
 
 这是一个非常简单的任务，只需要简短快速的完成
 
-1. 执行 `git add . && git --no-pager diff --staged` 获取所有更改
+1. 执行 `git add . && git status --porcelain` 获取所有更改
 2. 简短的总结，然后进行git commit提交，这一步需要我进行确认
 
 ## 注意事项
