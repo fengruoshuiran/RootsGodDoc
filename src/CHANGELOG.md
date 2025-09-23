@@ -19,6 +19,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [兔子洞](卡牌/兔子洞.md)
 - [黄金国](卡牌/黄金国.md)
 
+#### 卡牌组
+
+- [神话](卡牌组/神话.md)
+
+#### 天赋
+
+- [指环](天赋/指环.md)
+
 ### Changed
 
 #### 卡牌
@@ -34,6 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [传说](卡牌组/传说.md)，新增了 [黄金国](../卡牌/黄金国.md)、[世界树](../卡牌/世界树.md)、[兔子洞](../卡牌/兔子洞.md)
 - [光](卡牌组/光.md)，补充数量从 **4** 增加到了 **5**
 - [花](卡牌组/花.md)，重平衡了解锁条件
+- [侵蚀](卡牌组/侵蚀.md)，确认了解锁条件
 
 ## [1.1.11] - 2025-9-6
 
