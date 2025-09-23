@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.12] - 2025-9-18
+## [1.1.12]
 
 ### Added
 
@@ -15,17 +15,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [上古种子](卡牌/上古种子.md)
 - [魔豆](卡牌/魔豆.md)
 - [剃刀](天赋/剃刀.md)
+- [世界树](卡牌/世界树.md)
+- [兔子洞](卡牌/兔子洞.md)
+- [黄金国](卡牌/黄金国.md)
 
 ### Changed
 
 #### 卡牌
 
 - [幻之蝶](卡牌/幻之蝶.md)，平衡效果，降低等级从3至2，修改蔓延效果描述
+- [古战场](卡牌/古战场.md)，等级从 **2** 提高到 **4**，以与实际效果强度匹配
+- [麦穗头环](卡牌/麦穗头环.md)，将 生物 修正为 `生物`
 
 #### 卡牌组
 
 - [文物](卡牌组/文物.md)，添加了 [上古种子](../卡牌/上古种子.md)
 - [种子](卡牌组/种子.md)，增加了 [魔豆](../卡牌/魔豆.md)、[上古种子](../卡牌/上古种子.md)
+- [传说](卡牌组/传说.md)，新增了 [黄金国](../卡牌/黄金国.md)、[世界树](../卡牌/世界树.md)、[兔子洞](../卡牌/兔子洞.md)
+- [光](卡牌组/光.md)，补充数量从 **4** 增加到了 **5**
+- [花](卡牌组/花.md)，重平衡了解锁条件
 
 ## [1.1.11] - 2025-9-6
 
