@@ -20,7 +20,7 @@ cargo install mdbook
 
 ### markdown简介
 
-mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://markdown.com.cn/basic-syntax/)
+mdbook使用拓展的markdown规则编写的，对于markdown的基础语法，请[参阅](https://markdown.com.cn/basic-syntax/)
 
 推荐使用vscode编辑，按需安装拓展
 
@@ -37,5 +37,3 @@ mdbook使使用拓展的markdown规则编写的，对于markdown的基础语法�
 > 作为替代的，也可以安装[git](https://git-scm.com/downloads/win)，安装vscode插件git graph进行交互
 
 在编辑完成后，进行pull request，通过后提交将呈现在[文档网页](https://fengruoshuiran.github.io/RootsGodDoc/)中
-
-Seija已安装！！！！
