@@ -25,7 +25,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 卡牌组
 
 - [神话](卡牌组/神话.md)
-- [助长](卡牌组/助长.md)，确认了解锁条件，重平衡了权重，可补充数量从 **5** 提升到 **6**
 
 #### 天赋
 
@@ -48,6 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [光](卡牌组/光.md)，补充数量从 **4** 增加到了 **5**，添加了 [破晓](../卡牌/破晓.md)
 - [花](卡牌组/花.md)，重平衡了解锁条件
 - [侵蚀](卡牌组/侵蚀.md)，确认了解锁条件
+- [助长](卡牌组/助长.md)，确认了解锁条件，重平衡了权重，可补充数量从 **5** 提升到 **6**
 
 ## [1.1.11] - 2025-9-6
 
