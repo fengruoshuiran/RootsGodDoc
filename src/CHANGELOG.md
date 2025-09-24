@@ -14,7 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [上古水果](卡牌/上古水果.md)
 - [上古种子](卡牌/上古种子.md)
 - [魔豆](卡牌/魔豆.md)
-- [剃刀](天赋/剃刀.md)
 - [世界树](卡牌/世界树.md)
 - [兔子洞](卡牌/兔子洞.md)
 - [黄金国](卡牌/黄金国.md)
@@ -31,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### 天赋
 
 - [指环](天赋/指环.md)
+- [剃刀](天赋/剃刀.md)
 
 ### Changed
 
