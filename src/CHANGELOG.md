@@ -5,6 +5,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.13] - 2025-10-9
+
+### Added
+
+#### 卡牌
+
+- [奇怪的右手](卡牌/奇怪的右手.md)
+- [奇怪的左手](卡牌/奇怪的左手.md)
+- [烤吐司](卡牌/烤吐司.md)
+- [黄油猫](卡牌/黄油猫.md)
+
+#### 天赋
+
+- [残肢](天赋/残肢.md)
+- [早餐](天赋/早餐.md)
+- [朝露](天赋/朝露.md)
+
+### Changed
+
+#### 卡牌
+
+- [破晓](卡牌/破晓.md)，文本错误修正：木制障碍 -> 木制阻碍
+- [藤笼](卡牌/藤笼.md)，修改描述与效果，使其更为平衡
+
+#### 卡牌组
+
+- [丰饶](卡牌组/丰饶.md)，确认了解锁条件，重平衡了权重
+- [仪式](卡牌组/仪式.md)，确认了解锁条件，重平衡了权重
+- [神秘](卡牌组/神秘.md)，确认了解锁条件
+
+#### 天赋
+
+- [三宝磨](天赋/三宝磨.md)，修改了Cost0时效果，以保证彩蛋联动
+
 ## [1.1.12] - 2025-9-24
 
 ### Added
