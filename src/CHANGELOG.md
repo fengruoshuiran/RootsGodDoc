@@ -13,10 +13,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [奇怪的右手](卡牌/奇怪的右手.md)
 - [奇怪的左手](卡牌/奇怪的左手.md)
+- [烤吐司](卡牌/烤吐司.md)
+- [黄油猫](卡牌/黄油猫.md)
 
 #### 天赋
 
 - [残肢](天赋/残肢.md)
+- [早餐](天赋/早餐.md)
+- [朝露](天赋/朝露.md)
 
 ### Changed
 
@@ -24,6 +28,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [破晓](卡牌/破晓.md)，文本错误修正：木制障碍 -> 木制阻碍
 - [藤笼](卡牌/藤笼.md)，修改描述与效果，使其更为平衡
+
+#### 天赋
+
+- [三宝磨](天赋/三宝磨.md)，修改了Cost0时效果，以保证彩蛋联动
 
 ## [1.1.12] - 2025-9-24
 
