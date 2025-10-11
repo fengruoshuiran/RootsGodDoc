@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.14] - 2025-10-11
+
+### Added
+
+#### 卡牌
+
+- [无欲之壶](卡牌/无欲之壶.md)
+
+### Changed
+
+#### 卡牌
+
+- [贪欲之壶](卡牌/贪欲之壶.md)，修改效果
+
+#### 卡牌组
+
+- [文物](卡牌组/文物.md)，添加了 [无欲之壶](../卡牌/无欲之壶.md)
+
 ## [1.1.13] - 2025-10-9
 
 ### Added
