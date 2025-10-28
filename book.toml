@@ -1,7 +1,6 @@
 [book]
 authors = ["ruoran"]
 language = "zh-cn"
-multilingual = false
 src = "src"
 title = "腐根之里设计文档"
 
