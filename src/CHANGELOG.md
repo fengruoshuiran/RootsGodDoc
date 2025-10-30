@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - 修复了目录中的一些错误
-- 修改了卡包价格[公式](https://www.desmos.com/calculator/1yfpfymkjw)
+- 修改了卡包价格[公式](https://www.desmos.com/calculator/e6gz4ieisv)
 
 ## [1.1.14] - 2025-10-11
 
